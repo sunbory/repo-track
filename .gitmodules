@@ -1,0 +1,120 @@
+[submodule "ssh-tools/forwardPort"]
+	path = ssh-tools/forwardPort
+	url = https://github.com/sunbory/forwardPort.git
+[submodule "ssh-tools/assher"]
+	path = ssh-tools/assher
+	url = https://github.com/sunbory/assher.git
+[submodule "ssh-tools/sushell"]
+	path = ssh-tools/sushell
+	url = https://github.com/stanleyb0y/sushell.git
+[submodule "ssh-tools/rshell"]
+	path = ssh-tools/rshell
+	url = https://github.com/sunbory/rshell.git
+[submodule "ssh-tools/easyssh-proxy"]
+	path = ssh-tools/easyssh-proxy
+	url = https://github.com/appleboy/easyssh-proxy.git
+[submodule "ssh-tools/JumpSSH"]
+	path = ssh-tools/JumpSSH
+	url = https://github.com/AmadeusITGroup/JumpSSH.git
+[submodule "ssh-tools/ssgo"]
+	path = ssh-tools/ssgo
+	url = https://github.com/JeffreySE/ssgo.git
+[submodule "ssh-tools/web-terminal"]
+	path = ssh-tools/web-terminal
+	url = https://github.com/runner-mei/web-terminal.git
+[submodule "v2ray/guide"]
+	path = v2ray/guide
+	url = https://github.com/ToutyRater/v2ray-guide.git
+[submodule "v2ray/heroku-undone"]
+	path = v2ray/heroku-undone
+	url = https://github.com/sunbory/v2ray-heroku-undone.git
+[submodule "v2ray/master"]
+	path = v2ray/master
+	url = https://github.com/233boy/v2ray.git
+[submodule "v2ray/template"]
+	path = v2ray/template
+	url = https://github.com/veekxt/v2ray-template.git
+[submodule "v2ray/localtunnel"]
+	path = v2ray/localtunnel
+	url = https://github.com/progrium/localtunnel.git
+[submodule "v2ray/goagent"]
+	path = v2ray/goagent
+	url = https://github.com/aeieli/goagent.git
+[submodule "v2ray/hosts"]
+	path = v2ray/hosts
+	url = https://github.com/googlehosts/hosts.git
+[submodule "netdisk/Cloudreve"]
+	path = netdisk/Cloudreve
+	url = https://github.com/cloudreve/Cloudreve.git
+[submodule "netdisk/BaiduPCS-Go"]
+	path = netdisk/BaiduPCS-Go
+	url = https://github.com/Angey40/BaiduPCS-Go.git
+[submodule "netdisk/baidupcs-web"]
+	path = netdisk/baidupcs-web
+	url = https://github.com/yudern/baidupcs-web.git
+[submodule "netdisk/baidupcs-android"]
+	path = netdisk/baidupcs-android
+	url = https://github.com/8enet/baidupcs-android-demo.git
+[submodule "network/f-stack"]
+	path = network/f-stack
+	url = https://github.com/F-Stack/f-stack.git
+[submodule "network/Knitter"]
+	path = network/Knitter
+	url = https://github.com/ZTE/Knitter.git
+[submodule "network/CNI-Genie"]
+	path = network/CNI-Genie
+	url = https://github.com/huawei-cloudnative/CNI-Genie.git
+[submodule "stack/s_task"]
+	path = stack/s_task
+	url = https://github.com/xhawk18/s_task.git
+[submodule "stack/libco"]
+	path = stack/libco
+	url = https://github.com/Tencent/libco.git
+[submodule "stack/pox"]
+	path = stack/pox
+	url = https://github.com/noxrepo/pox.git
+[submodule "stack/micro"]
+	path = stack/micro
+	url = https://github.com/hb-go/micro.git
+[submodule "stack/kratos"]
+	path = stack/kratos
+	url = https://github.com/go-kratos/kratos.git
+[submodule "stack/eureka-client"]
+	path = stack/eureka-client
+	url = https://github.com/keijack/python-eureka-client.git
+[submodule "stack/mqant"]
+	path = stack/mqant
+	url = https://github.com/liangdas/mqant.git
+[submodule "stack/go-push"]
+	path = stack/go-push
+	url = https://github.com/owenliang/go-push.git
+[submodule "stack/cmdb"]
+	path = stack/cmdb
+	url = https://github.com/open-cmdb/cmdb.git
+[submodule "utils/injectso"]
+	path = utils/injectso
+	url = https://github.com/stealth/injectso.git
+[submodule "utils/pcstat"]
+	path = utils/pcstat
+	url = https://github.com/tobert/pcstat.git
+[submodule "utils/logparser"]
+	path = utils/logparser
+	url = https://github.com/logpai/logparser.git
+[submodule "algorithm/fucking-algorithm"]
+	path = algorithm/fucking-algorithm
+	url = https://github.com/labuladong/fucking-algorithm.git
+[submodule "algorithm/leetcode"]
+	path = algorithm/leetcode
+	url = https://github.com/haoel/leetcode.git
+[submodule "algorithm/awesome-books"]
+	path = algorithm/awesome-books
+	url = https://github.com/royeo/awesome-programming-books.git
+[submodule "algorithm/Design_pattern_of_python"]
+	path = algorithm/Design_pattern_of_python
+	url = https://github.com/w392807287/Design_pattern_of_python.git
+[submodule "algorithm/GolangCodingTime"]
+	path = algorithm/GolangCodingTime
+	url = https://github.com/iswbm/GolangCodingTime.git
+[submodule "algorithm/golang-developer"]
+	path = algorithm/golang-developer
+	url = https://github.com/Alikhll/golang-developer-roadmap.git
