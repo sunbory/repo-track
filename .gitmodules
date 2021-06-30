@@ -10,6 +10,9 @@
 [submodule "ssh-tools/rshell"]
 	path = ssh-tools/rshell
 	url = https://github.com/sunbory/rshell.git
+[submodule "ssh-tools/xsh"]
+	path = ssh-tools/xsh
+	url = https://github.com/xied5531/xsh
 [submodule "ssh-tools/easyssh-proxy"]
 	path = ssh-tools/easyssh-proxy
 	url = https://github.com/appleboy/easyssh-proxy.git
